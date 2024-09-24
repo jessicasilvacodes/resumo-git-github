@@ -37,6 +37,10 @@ Código com Git e GitHub" da [Digital Innovation One](https://www.dio.me/).
 | puxar para a branch main | git branch -m main |
 | enviar do repositório local para o repositório remoto | git push -u origin main |
 | puxar do repositório remoto para o repositório local | git pull |
+| trocar de branch | git checkout nome-da-branch |
+| voltar para a branch main | git checkout main |
+| ver o  último commit de cada branch | git branch -v | 
+| excluir alguma branch | git branch -d nome-da-branch |
 | ... | ... |
-| ... | ... | 
+| ...
 
