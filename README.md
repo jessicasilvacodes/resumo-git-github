@@ -1,7 +1,7 @@
 
-# DIO | curso Git e GitHub
+# DIO | Versionamento de Código com Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub do curso "Versionamento de 
+Repositório para armazenar resumos do curso "Versionamento de 
 Código com Git e GitHub" da [Digital Innovation One](https://www.dio.me/).
 
 ## 📚 Documentação:
